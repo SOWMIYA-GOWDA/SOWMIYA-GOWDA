@@ -3,7 +3,7 @@
 ---
 
 <!-- Wavy Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header" width="100%">
 
 <br>
 
