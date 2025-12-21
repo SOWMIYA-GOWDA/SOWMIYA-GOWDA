@@ -103,7 +103,7 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 
 <p align="left">
 
-  <a href="https://github.com/SOWMIYA_GOWDA" target="_blank">
+  <a href="https://github.com/SOWMIYA-GOWDA" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
