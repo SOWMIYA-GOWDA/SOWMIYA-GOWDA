@@ -106,19 +106,14 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 
 </p>
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SOWMIYA_GOWDA&label=Profile%20Views&color=orange&style=flat" />
-</p>
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=SOWMIYA-GOWDA&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOWMIYA-GOWDA&layout=compact&theme=tokyonight" height="150">
 </p>
 
 <!-- Bottom Wave -->
