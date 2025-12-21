@@ -11,7 +11,7 @@
 <p align="center">
 
   <!-- University -->
-  <img src="https://img.shields.io/badge/Crescent%20University-AI%20%26%20DS-4B9CD3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Crescent%20University-B.Tech%20AI%20%26%20DS-4B9CD3?style=for-the-badge">
 
   <!-- Focus -->
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-6A5ACD?style=for-the-badge">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%26%20Data%20Science-20B2AA?style=for-the-badge">
 
   <!-- Interest -->
-  <img src="https://img.shields.io/badge/Interest-Problem%20Solving%20%7C%20Algorithms-FF8C00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Interest-Problem%20Solving-FF8C00?style=for-the-badge">
 
 </p>
 
