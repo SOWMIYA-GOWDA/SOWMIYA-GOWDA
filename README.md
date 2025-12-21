@@ -127,4 +127,5 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 </p>
 
 <!-- Bottom Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer" width="100%">
+
