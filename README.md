@@ -6,6 +6,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header" width="100%">
 
 <br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=650&height=60&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Learning+Daily" />
+</p>
 
 <!-- Badge Row 1 -->
 <p align="center">
