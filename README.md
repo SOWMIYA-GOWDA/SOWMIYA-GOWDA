@@ -7,8 +7,9 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=650&height=60&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Learning+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=28&center=true&vCenter=true&width=650&height=60&lines=Artificial+Intelligence;Machine+Learning;Data+Science;ML%2FDL+Enthusiast" />
 </p>
+
 
 <!-- Badge Row 1 -->
 <p align="center">
