@@ -127,8 +127,10 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOWMIYA-GOWDA&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowmiya-gowda&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiya-gowda&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 <!-- Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer" width="100%">
