@@ -78,13 +78,12 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 
 ### **Crowd Movement Analysis — Graph + AI**
 
-Converts crowd movement into graph-based representations
+- Converts crowd movement into graph-based representations
+- Applies AI models to analyze congestion and abnormal patterns
+- Helps in identifying risky crowd behavior
+- Designed for smart surveillance systems
 
-Applies AI models to analyze congestion and abnormal patterns
-
-Helps in identifying risky crowd behavior
-
-Designed for smart surveillance systems
+---
 
 ### 🧬 **Gallstone Disease Prediction — ML**
 - Machine Learning model to detect gallstone disease  
