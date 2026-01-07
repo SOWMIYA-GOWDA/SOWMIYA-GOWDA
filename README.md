@@ -64,6 +64,15 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+### Domains
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p> 
+
 ### 🧰 Tools & Technologies
 
 <p>
