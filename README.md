@@ -121,6 +121,14 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 
 ---
 
+### 🤖 **Task Management System with AI support - Web (Frontend, Backend and AI Integrated)**
+- Manage tasks using natural language commands
+- AI converts text into structured actions securely
+- State machine ensures valid task workflow
+- Lightweight database with strong validation.
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
