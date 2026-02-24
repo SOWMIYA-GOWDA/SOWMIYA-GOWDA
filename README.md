@@ -129,6 +129,46 @@ I aim to create impactful solutions that are practical, accurate, and scalable.
 
 ---
 
+## 🔑 Checking Token / API Balance Usage (Student Access)
+
+As an AI & Data Science student, working with LLMs and APIs requires monitoring your token usage and remaining balance. Here's how to check usage across common platforms:
+
+### 🤖 GitHub Copilot (Student / Education Access)
+- Go to **[github.com/settings/copilot](https://github.com/settings/copilot)**
+- Under **"Your Copilot"**, you can see your current plan (Free / Pro / Education)
+- For usage stats, visit **[github.com/settings/billing/usage](https://github.com/settings/billing/usage)**
+- Students with **GitHub Education Pack** get Copilot Pro for free — verify at **[education.github.com](https://education.github.com/)**
+
+### 🧠 OpenAI API (Free Tier / Student Credits)
+- Log in at **[platform.openai.com](https://platform.openai.com)**
+- Navigate to **Settings → Billing → Usage** or visit **[platform.openai.com/usage](https://platform.openai.com/usage)**
+- The **Usage** page shows token consumption per model (e.g., GPT-3.5, GPT-4)
+- Set **usage limits** under **Settings → Limits** to avoid unexpected charges
+- Check remaining free credits under **Settings → Billing → Credit balance**
+
+### 🔵 Google Gemini / Vertex AI (Student / Free Tier)
+- Visit **[console.cloud.google.com](https://console.cloud.google.com)**
+- Go to **Billing → Reports** to see API usage
+- For Gemini API: check **[aistudio.google.com](https://aistudio.google.com)** → your API usage is shown in the dashboard
+- Free tier limits are visible under **IAM & Admin → Quotas**
+
+### 🟣 Hugging Face Inference API (Free Tier)
+- Log in at **[huggingface.co](https://huggingface.co)**
+- Go to **Settings → Billing** to see your API call usage
+- Free tier allows a limited number of requests per month — usage resets monthly
+
+### 💡 General Tips for Students
+| Platform | Where to Check | Free Student Benefit |
+|---|---|---|
+| GitHub Copilot | github.com/settings/billing/usage | Free via GitHub Education |
+| OpenAI | platform.openai.com/usage | $5–$18 free credits for new accounts |
+| Google Gemini | aistudio.google.com | Free tier with rate limits |
+| Hugging Face | huggingface.co/settings/billing | Free inference API tier |
+
+> 💡 **Tip:** Always set **monthly spending limits** or **usage alerts** on each platform so you never exceed your free student quota unexpectedly.
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
