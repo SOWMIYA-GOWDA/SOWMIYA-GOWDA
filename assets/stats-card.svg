@@ -1,0 +1,91 @@
+<svg width="480" height="362" viewBox="0 0 480 362" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1E3D"/>
+      <stop offset="100%" stop-color="#152A54"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0" y="0" width="480" height="362" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="0" y="0" width="480" height="362" fill="url(#cardBg)"/>
+    <rect x="0" y="0" width="480" height="4" fill="#2563EB">
+      <animate attributeName="width" from="0" to="480" dur="1s" fill="freeze"/>
+    </rect>
+    <text x="24" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F8FAFC">
+      SOWMIYA-GOWDA — Live GitHub Stats
+    </text>
+    
+    <g>
+      <text x="24" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Total Contributions (past year)</text>
+      <text x="456" y="70" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        150
+        <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="78" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Current Streak</text>
+      <text x="456" y="104" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        0 days
+        <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="112" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Total Commits</text>
+      <text x="456" y="138" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        145
+        <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="146" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Pull Requests</text>
+      <text x="456" y="172" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        0
+        <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="180" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Issues</text>
+      <text x="456" y="206" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        0
+        <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="214" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Stars Earned</text>
+      <text x="456" y="240" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        0
+        <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="248" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="274" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Public Repos</text>
+      <text x="456" y="274" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        6
+        <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="282" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+
+    <g>
+      <text x="24" y="308" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Followers</text>
+      <text x="456" y="308" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
+        1
+        <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.5s" fill="freeze"/>
+      </text>
+      <rect x="24" y="316" width="432" height="1" fill="#2563EB" opacity="0.12"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="479" height="361" rx="14" fill="none" stroke="#2563EB" stroke-opacity="0.35"/>
+</svg>
