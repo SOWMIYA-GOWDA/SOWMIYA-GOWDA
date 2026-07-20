@@ -22,8 +22,8 @@ jobs:
 
       - name: Generate live stats card
         env:
-          GH_USERNAME: SOWMIYA-GOWDA
-          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+  GH_USERNAME: SOWMIYA-GOWDA
+  GH_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: node scripts/generate-stats-card.js
 
       - name: Generate themed contribution graph
