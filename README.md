@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Sowmiya – AI & Data Science Student</h1>
+<h1 align="center">⚡ Sowmiya – AI/ML Engineer</h1>
 
 ---
 
@@ -7,7 +7,16 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=28&center=true&vCenter=true&width=650&height=60&lines=Artificial+Intelligence;Machine+Learning;Data+Science;ML%2FDL+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SOWMIYA-GOWDA&label=Profile%20Views&color=20B2AA&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/SOWMIYA-GOWDA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/SOWMIYA-GOWDA?style=for-the-badge"/>
+
 </p>
 
 
@@ -37,52 +46,86 @@
 ---
 
 ## 👩‍💻 About Me  
-I'm a **final-year B.Tech Artificial Intelligence & Data Science student** with strong hands-on experience in Machine Learning, Deep Learning, and data-driven problem solving.  
-I focus on building reliable healthcare prediction models, smart analytical systems, and efficient software solutions.
 
-My work includes ML-based classification models, deep learning pipelines, and web applications powered by APIs.  
-I aim to create impactful solutions that are practical, accurate, and scalable.
+I'm an **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems using Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
 
-🧬 Developed healthcare-focused ML/DL models: **Gallstone Disease Prediction**, **TB Detection**, **PCOS Insight**  
-🧪 Research work involving **Genetic Algorithms + Stacking Ensemble Learning** for model optimization  
-🌐 Built a **Building Design Generator** using HTML, CSS, JavaScript & Pexels API  
-📊 Skilled in **Python, Java, SQL, Machine Learning, Deep Learning & Data Preprocessing**  
-💡 Currently strengthening **DSA in Java** for placement preparation  
+Currently, I'm working on AI-powered applications, healthcare prediction systems, intelligent automation, and geospatial visualization. I enjoy transforming research ideas into production-ready solutions with scalable architectures.
+
+### Current Focus
+
+- AI Agent Development
+- Machine Learning & Deep Learning
+- Computer Vision
+- Generative AI
+- FastAPI Backend Development
+- Data Analytics
+- Geospatial AI & CesiumJS
+---
+
+## 🛠 Tech Stack
+
+### 👩‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+</p>
 
 ---
 
-## 🛠 Technical Stack
+### 🤖 AI / Machine Learning
 
-### 👩‍💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
-
-### Domains
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-</p> 
-
-### 🧰 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
 
 ---
 
+### ⚙️ Frameworks & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 Data Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌍 Areas of Interest
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge"/>
+</p>
 ## 🚀 Featured Projects
 
 ### **Crowd Movement Analysis — Graph + AI**
