@@ -306,10 +306,6 @@ Currently, I'm working on AI-powered applications, healthcare prediction systems
 
 <img src="assets/stats-card.svg" alt="Live GitHub stats" width="480"/>
 
-<br><br>
-
-<img src="assets/contribution-graph.svg" alt="Themed contribution graph" width="100%"/>
-
 </div>
 
 
