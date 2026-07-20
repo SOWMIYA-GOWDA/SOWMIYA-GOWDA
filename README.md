@@ -62,70 +62,126 @@ Currently, I'm working on AI-powered applications, healthcare prediction systems
 - Geospatial AI & CesiumJS
 ---
 
+## 🛠️ Tech Stack
+
 ## 🛠 Tech Stack
 
-### 👩‍💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
-</p>
+<table>
 
----
+<tr>
+<td width="180">
 
-### 🤖 AI / Machine Learning
+### 👨‍💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+</td>
 
----
+<td>
 
-### ⚙️ Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
+**Python • Java • JavaScript • HTML5 • CSS3 • SQL**
 
----
+</td>
+</tr>
 
-### 🗄️ Databases
+<tr>
+<td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
-</p>
+### 🤖 AI & ML
 
----
+</td>
 
-### 🧰 Tools & Platforms
+<td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,keras,numpy"/>
 
----
+**TensorFlow • PyTorch • OpenCV • Scikit-learn • Keras • NumPy • Pandas**
 
-### 📊 Data Visualization
+</td>
+</tr>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
+<tr>
+<td>
 
----
+### ⚙️ Backend
 
-### 🌍 Areas of Interest
+</td>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge"/>
-</p>
+<td>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+**FastAPI • REST APIs**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 Frontend
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
+
+**React • Next.js**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🗄️ Database
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite"/>
+
+**MongoDB • SQLite**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🛠️ Tools
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+**Git • GitHub • VS Code • Postman • Power BI**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌟 Specializations
+
+</td>
+
+<td>
+
+🧠 Artificial Intelligence • 🤖 Machine Learning • 🔥 Deep Learning • 👁️ Computer Vision • 💬 NLP • ✨ Generative AI • 🤖 AI Agents • 📚 RAG • 🌍 CesiumJS • 🛰️ GIS
+
+</td>
+</tr>
+
+</table>
+
+
 ## 🚀 Featured Projects
 
 ### **Crowd Movement Analysis — Graph + AI**
