@@ -298,18 +298,19 @@ Currently, I'm working on AI-powered applications, healthcare prediction systems
 </div>
 
 
-## 📊 GitHub Stats
+## 📊 Live GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SOWMIYA-GOWDA&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SOWMIYA-GOWDA&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
-    height="170"
-  />
-</p>
+*Self-hosted, not a third-party widget — this card is generated fresh every day by a GitHub Action in this repo and committed straight into it, so it never shows zeros from someone else's rate limit again.*
+
+<div align="center">
+
+<img src="assets/stats-card.svg" alt="Live GitHub stats" width="480"/>
+
+<br><br>
+
+<img src="assets/contribution-graph.svg" alt="Themed contribution graph" width="100%"/>
+
+</div>
 
 
 ## 🔗 Connect With Me
