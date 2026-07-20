@@ -28,12 +28,6 @@ jobs:
           GH_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: node scripts/generate-stats-card.js
 
-      - name: Generate themed contribution graph
-        env:
-          GH_USERNAME: SOWMIYA-GOWDA
-          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
-        run: node scripts/generate-contribution-graph.js
-
       - name: Commit updated assets
         run: |
           git config user.name "github-actions[bot]"
