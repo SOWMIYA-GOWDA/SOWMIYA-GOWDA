@@ -312,7 +312,7 @@ Currently, I'm working on AI-powered applications, healthcare prediction systems
 
 <p align="center">
 
-<a href="[https://yourportfolio.com](https://sowmiya-portfolio-three.vercel.app/)">
+<a href="https://sowmiya-portfolio-three.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel" width="55"/>
 </a>
 
