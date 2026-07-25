@@ -308,26 +308,31 @@ Currently, I'm working on AI-powered applications, healthcare prediction systems
 
 </div>
 
+## 🌐 Connect With Me
 
-## 🔗 Connect With Me
+<p align="center">
 
-<p align="left">
+<a href="[https://yourportfolio.com](https://sowmiya-portfolio-three.vercel.app/)">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+</a>
 
-  <a href="https://github.com/SOWMIYA-GOWDA" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/SOWMIYA-GOWDA">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
-  <a href="mailto:sowmiyapgowda0504@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://linkedin.com/in/sowmiya-p-gowda-9b7103369">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/sowmiya-p-gowda-9b7103369/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:sowmiyapgowda0504@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 
 </p>
 
-
+<p align="center">
+<b>Portfolio</b> • <b>GitHub</b> • <b>LinkedIn</b> • <b>Email</b>
+</p>
 ---
 
 
