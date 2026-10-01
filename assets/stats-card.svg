@@ -27,7 +27,7 @@
     <g>
       <text x="24" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">Current Streak</text>
       <text x="456" y="104" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="700" fill="#60A5FA" opacity="0">
-        2 days
+        0 days
         <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/>
       </text>
       <rect x="24" y="112" width="432" height="1" fill="#2563EB" opacity="0.12"/>
